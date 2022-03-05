@@ -14,7 +14,7 @@ ACM Research in Adaptive and Convergent Systems (RACS), Chongqing, China, Sep. 2
 3. <u>Yi-Shen Chen</u>, and Peng-Sheng Chen, “A Software-based Redundant Execution Programming Model for Transient Fault Detection and Correction,” IEEE International Con-
 ference on Parallel Processing Workshops (ICPPW), Philadelphia, PA, USA, Aug. 16-19, 2016.
 
-
+++23132
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
