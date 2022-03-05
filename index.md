@@ -1,9 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Yi-Shen's homepage!
 
-You can use the [editor on GitHub](https://github.com/yschen195/yschen195.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Yi-Shen Chen is now a postdoctoral scholar at the Institute of Information Science, Academia Sinica, Taipei, Taiwan. He received his M.S. degree in the Department of Computer Science and Information Engineering from National Chung Cheng University in 2016, and received his Ph.D. in the Department of Computer Science and Information	Engineering from National Taiwan University in 2021. My primary research interests include emerging non-volatile memories, memory/storage systems, and embedded	systems.
+  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
