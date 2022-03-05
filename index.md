@@ -27,8 +27,8 @@ ference on Parallel Processing Workshops (ICPPW), Philadelphia, PA, USA, Aug. 16
 4. Teaching Assistant of Autotronics System Design Project, Department of Computer Science and Information Engineering, National Chung Cheng University. (Fall 2013)
 
 ## Projects
-1. Adaptive lighting control system on Arduino Platform (2015)
-2. Pedestrian detection system on Android Device (2015)
+1. Adaptive Lighting Control System on Arduino Platform (2015)
+2. Pedestrian Detection System on Android Device (2015)
 3. Gesture Registration System using Microsoft Kinect Sensor (2014)
 4. Group-based Timetable System (2014)
 
