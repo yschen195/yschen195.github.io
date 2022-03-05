@@ -5,6 +5,9 @@ description: Life is the art of drawing sufficient conclusions from insufficient
 social-network-links:
   email: "yschen195@iis.sinica.edu.tw"
 
+avatar: "/assets/img/avatar-icon.png"
+
+<!--
 avatar:
   # Replace the default image and set the url here.
   url: /face.png
@@ -12,3 +15,4 @@ avatar:
   rounded: true
   # If true, the avatar will be rotated with the cursor.
   rotated: false
+  -->
