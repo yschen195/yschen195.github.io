@@ -2,18 +2,10 @@ theme: jekyll-theme-minimal
 title: Yi-Shen Chen
 description: Life is the art of drawing sufficient conclusions from insufficient premises.
 
-picture:
-  source: "/face.png"
-  
-image:
-  source: /face.png
-  
-# --- Logo --- #
-# Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
-avatar: "/face.png"
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
-# If you want to have an image logo in the top-left corner instead of having the title of the website,
-# then specify the following parameter
-title-img: /face.png
+avatar:
+  # Replace the default image and set the url here.
+  url: /face.png
+  # If true, the avatar will be dispalyed in circle.
+  rounded: true
+  # If true, the avatar will be rotated with the cursor.
+  rotated: false
