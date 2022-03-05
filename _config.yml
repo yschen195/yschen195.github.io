@@ -1,18 +1,6 @@
 theme: jekyll-theme-minimal
 author: Yi-Shen Chen
 title: Yi-Shen Chen
+logo: "face.png"
 description: Life is the art of drawing sufficient conclusions from insufficient premises.
-social-network-links:
-  email: "yschen195@iis.sinica.edu.tw"
-
-avatar: "face.png"
-
-<!--
-avatar:
-  # Replace the default image and set the url here.
-  url: /face.png
-  # If true, the avatar will be dispalyed in circle.
-  rounded: true
-  # If true, the avatar will be rotated with the cursor.
-  rotated: false
-  -->
+url: "yschen195@iis.sinica.edu.tw"
