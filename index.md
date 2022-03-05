@@ -14,7 +14,7 @@ ACM Research in Adaptive and Convergent Systems (RACS), Chongqing, China, Sep. 2
 3. <u>Yi-Shen Chen</u>, and Peng-Sheng Chen, “A Software-based Redundant Execution Programming Model for Transient Fault Detection and Correction,” IEEE International Con-
 ference on Parallel Processing Workshops (ICPPW), Philadelphia, PA, USA, Aug. 16-19, 2016.
 
-
+<!--
 ```markdown
 Syntax highlighted code block
 
@@ -33,3 +33,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
