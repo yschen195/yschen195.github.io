@@ -18,7 +18,7 @@ ference on Parallel Processing Workshops (ICPPW), Philadelphia, PA, USA, Aug. 16
 ## Awards
 
 ## Talks
-1. __Energy-Efficient Arithmetic Coding Scheme for Non-Volatile Memory Systems.__ In Student Research Forum of 26th Asia and South Pacific Design Automation Conference (ASP-DAC), 2021.
+1. __Energy-Efficient Arithmetic Coding Scheme for Non-Volatile Memory Systems.__ In Student Research Forum of 26th Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, Jan. 19, 2021.
 2. __A Software-Based Redundant Execution Programming Model for Transient Fault Detection and Correction.__ In 45th International Conference on Parallel Processing Workshops (ICPPW), September 26, 2016, Philadelphia, USA.
 3. __Thread-level Value Speculation for Image-processing Applications.__ In 2015 International Workshop on Embedded Multicore Systems (ICPP-EMS), September 1, 2015, Beijing, China.
 4. __A Project-Based Course in Autotronics System Design.__ In 2015 International Conference on Consumer Electronics (ICCE), IEEE, June 6, 2015, Taipei, Taiwan.
