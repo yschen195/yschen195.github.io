@@ -7,5 +7,6 @@ description: Life is the art of drawing sufficient conclusions from insufficient
 email: "yschen195@iis.sinica.edu.tw"
 url: "https://yschen195.github.io"
 copyright: "2022"
+show_downloads: false
 github:
-is_project_page: false
+  is_project_page: false
