@@ -2,7 +2,7 @@
 
 __<u>Yi-Shen Chen</u>__ is now a postdoctoral scholar at the Institute of Information Science, Academia Sinica, Taipei, Taiwan. He received his M.S. degree in the Department of Computer Science and Information Engineering from National Chung Cheng University in 2016, and received his Ph.D. in the Department of Computer Science and Information	Engineering from National Taiwan University in 2021. His primary research interests include emerging non-volatile memories, memory/storage systems, and embedded systems.
 
-_:email:Contact: yschen195@iis.sinica.edu.tw_
+:email: _Contact: yschen195@iis.sinica.edu.tw_
   
 ## Publications
 (Please also see my [Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=78bVAo8AAAAJ))
