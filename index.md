@@ -21,6 +21,12 @@ _Contact: yschen195@iis.sinica.edu.tw_
 * __<u>Yi-Shen Chen</u>__, and Peng-Sheng Chen, “A Software-based Redundant Execution Programming Model for Transient Fault Detection and Correction,” IEEE International Conference on Parallel Processing Workshops (ICPPW), Philadelphia, PA, USA, Aug. 16-19, 2016.
 
 ## Awards
+* __Deng Li Deng and Dengliu Zhi Mei Scholarship__, 2020
+* __Delta Electronics Industry Scholarship__, 2019
+* __Deng Li Deng and Dengliu Zhi Mei Scholarship__, 2019
+* __Deng Li Deng and Dengliu Zhi Mei Scholarship__, 2018
+* __National Taiwan University Encouragement Scholarship__, 2016
+* __Study Abroad Program__ for studying at the Department of Electrical and Systems Engineering, University of Miyazaki, Miyazaki, Japen, 2014.
 
 ## Talks
 * __LLSM: A Lifetime-Aware Wear-Leveling for LSM-Tree on NAND Flash Memory.__ In ACM/IEEE International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), Shanghai, China, Oct., 2022.
