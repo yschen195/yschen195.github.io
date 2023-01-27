@@ -37,6 +37,22 @@ _Contact: yschen195@iis.sinica.edu.tw_
 * __Thread-level Value Speculation for Image-processing Applications.__ In 2015 International Workshop on Embedded Multicore Systems (ICPP-EMS), Sep., 2015, Beijing, China.
 * __A Project-Based Course in Autotronics System Design.__ In 2015 International Conference on Consumer Electronics (ICCE), IEEE, Jun., 2015, Taipei, Taiwan.
 
+## Academic Activities
+### Journal Paper Review
+IEEE Transactions on Computers. (2023)
+IEEE Transactions on Emerging Topics in Computing. (2022)
+IEEE Computer Architecture Letters (CAL). (2022)
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD). (2021)
+Journal of Systems Architecture (JSA). (2021)
+
+### Conference Paper Review
+ACM/IEEE Design Automation Conference (DAC). (2022)
+ACM International Conference on Education and Service Sciences. (2022)
+ACM/IEEE International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS). (2021)
+IEEE Nonvolatile Memory Systems and Applications Symposium (NVMSA). (2021)
+IEEE Computer Society Annual Symposium on VLSI (ISVLSI). (2021)
+IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). (2021)
+
 ## Experiences
 * Postdoctoral Scholar, Institute of Information Science, Academia Sinica, Taipei, Taiwan. (July 2021 - NOW)
 * Teaching Assistant of Operating Systems, Department of Computer Science and Information Engineering, National Taiwan University. (Spring 2019)
