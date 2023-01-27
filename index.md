@@ -9,6 +9,7 @@ _Contact: yschen195@iis.sinica.edu.tw_
 <!--### Journal Papers-->
 
 ### Journal Papers
+* __<u>Yi-Shen Chen</u>__, Yuan-Hao Chang, and Tei-Wei Kuo, "DTC: A Drift-Tolerant Coding to Improve the Performance and Energy Efficiency of Multi-Level-Cell Phase-Change Memory," accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
 * __<u>Yi-Shen Chen</u>__, Chun-Feng Wu, Yuan-Hao Chang, and Tei-Wei Kuo, "Energy Efficiency Enhancement of SCM-based Systems: A Write-friendly Coding," accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
 * Dharamjeet, __<u>Yi-Shen Chen</u>__, Tseng-Yi Chen, Yuan-Hung Kuan, and Yuan-Hao Chang, "LLSM: A Lifetime-Aware Wear-Leveling for LSM-Tree on NAND Flash Memory," accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). (Integrated with ACM/IEEE CASES'22)
 
