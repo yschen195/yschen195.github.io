@@ -23,10 +23,13 @@ _Contact: yschen195@iis.sinica.edu.tw_
 ## Awards
 
 ## Talks
-* __Energy-Efficient Arithmetic Coding Scheme for Non-Volatile Memory Systems.__ In Student Research Forum of 26th Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, Jan. 19, 2021.
-* __A Software-Based Redundant Execution Programming Model for Transient Fault Detection and Correction.__ In 45th International Conference on Parallel Processing Workshops (ICPPW), September 26, 2016, Philadelphia, USA.
-* __Thread-level Value Speculation for Image-processing Applications.__ In 2015 International Workshop on Embedded Multicore Systems (ICPP-EMS), September 1, 2015, Beijing, China.
-* __A Project-Based Course in Autotronics System Design.__ In 2015 International Conference on Consumer Electronics (ICCE), IEEE, June 6, 2015, Taipei, Taiwan.
+* __LLSM: A Lifetime-Aware Wear-Leveling for LSM-Tree on NAND Flash Memory.__ In ACM/IEEE International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), Shanghai, China, Oct., 2022.
+* __Drift-tolerant Coding to Enhance the Energy Efficiency of Multi-Level-Cell Phase-Change Memory.__ In ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Boston, MA, USA, Aug., 2022.
+* __A Write-friendly Arithmetic Coding Scheme for Achieving Energy-Efficient Non-Volatile Memory Systems.__ In 26th Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, Jan., 2021.
+* __Energy-Efficient Arithmetic Coding Scheme for Non-Volatile Memory Systems.__ In Student Research Forum of 26th Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, Jan., 2021.
+* __A Software-Based Redundant Execution Programming Model for Transient Fault Detection and Correction.__ In 45th International Conference on Parallel Processing Workshops (ICPPW), Sep., 2016, Philadelphia, USA.
+* __Thread-level Value Speculation for Image-processing Applications.__ In 2015 International Workshop on Embedded Multicore Systems (ICPP-EMS), Sep., 2015, Beijing, China.
+* __A Project-Based Course in Autotronics System Design.__ In 2015 International Conference on Consumer Electronics (ICCE), IEEE, Jun., 2015, Taipei, Taiwan.
 
 ## Experiences
 * Postdoctoral Scholar, Institute of Information Science, Academia Sinica, Taipei, Taiwan. (July 2021 - NOW)
