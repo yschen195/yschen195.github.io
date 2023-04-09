@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
 author: Yi-Shen Chen
 title: Yi-Shen Chen
 tagline: PostDoc @ IIS, Academia Sinica
@@ -8,5 +10,3 @@ email: "yschen195@iis.sinica.edu.tw"
 url: "https://yschen195.github.io"
 copyright: "2022"
 show_downloads: false
-github:
-  is_project_page: false
