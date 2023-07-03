@@ -1,14 +1,14 @@
 <strong><span style="color:red">最新消息(2023.07):</span></strong>
-Hi，我是將於今年八月加入國立臺灣科技大學電子系的新老師，我們實驗室致力於研究開發新興非揮發性記憶體與儲存技術、記憶體與儲存系統、嵌入式系統、智慧物聯網(AIoT)、人工智慧(AI)、記憶體內運算(In-Memory Computing)、行動裝置程式設計等熱門的次世代電腦科學關鍵技術，歡迎對我研究領域有興趣的同學一起加入我們實驗室！請email與我聯繫做更進一步的討論 :)
+Hi，我是將於今年八月加入國立臺灣科技大學電子系的新老師，我們實驗室致力於研究開發新興非揮發性記憶體與儲存技術、記憶體與儲存系統、嵌入式系統、智慧物聯網(AIoT)、人工智慧(AI)、記憶體內運算(In-Memory Computing)、行動裝置程式設計等熱門的次世代電腦科學關鍵技術，歡迎對我研究領域有興趣的同學一起加入我們實驗室！請email (billy195375@gmail.com) 與我聯繫做更進一步的討論 :)
 
 <strong><span style="color:red">News(2023.07):</span></strong>
 Hi, I will join the Department of Electronic and Computer Engineering at National Taiwan University of Science and Technology as an assistant professor in August 2023. __<u>I am looking for motivated B.S., M.S., and Ph.D. students with interests in my research topic. My research topic focuses on novel computer science techniques, including emerging non-volatile memories, memory and storage systems, embedded systems, AIoT, AI, in-memory computing, and mobile device programming (Android).</u>__ Please feel free to email me (billy195375@gmail.com) with your CV if you are interested in my research.
 
 --------------------------------------------------------------------
 
-__<u>Yi-Shen Chen</u>__ is now a postdoctoral scholar at the Institute of Information Science, Academia Sinica, Taipei, Taiwan. He received his Ph.D. in the Department of Computer Science and Information	Engineering from National Taiwan University in 2021, and received his M.S. degree in the Department of Computer Science and Information Engineering from National Chung Cheng University in 2016. His primary research interests include emerging non-volatile memories, memory/storage systems, and embedded systems.
+__<u>Yi-Shen Chen</u>__ is now an assistant professor at the Department of Electronic and Computer Engineering, National Taiwan University of Science and Technology, Taipei, Taiwan. He was a postdoctoral scholar at the Institute of Information Science, Academia Sinica from 2021 to 2023. He received his Ph.D. in the Department of Computer Science and Information Engineering from National Taiwan University in 2021. His primary research interests include emerging non-volatile memories, memory/storage systems, and embedded systems.
 
-_Contact: yschen195@iis.sinica.edu.tw_
+_Contact: billy195375@gmail.com_
   
 # Publications
 (Please also see my [Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=78bVAo8AAAAJ))
