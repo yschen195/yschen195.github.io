@@ -1,6 +1,6 @@
 <strong><span style="color:red">最新消息(2023.07):</span></strong>
 Hi，我是將於今年八月加入國立臺灣科技大學電子系的新老師，__我們實驗室致力於研究開發新興非揮發性記憶體與儲存技術、記憶體與儲存系統、嵌入式系統、智慧物聯網(AIoT)、人工智慧(AI)、記憶體內運算(In-Memory Computing)、行動裝置程式設計等熱門的次世代電腦科學關鍵技術，歡迎對我研究領域有興趣的同學一起加入我們實驗室！__
-<br>請email (billy195375@gmail.com) 與我聯繫做更進一步的討論 :)
+<br>請email (billy195375@gmail.com) 與我聯繫做進一步的討論 :)
 
 <strong><span style="color:red">News(2023.07):</span></strong>
 Hi, I will join the Department of Electronic and Computer Engineering at National Taiwan University of Science and Technology as an assistant professor in August 2023. __I am looking for motivated B.S., M.S., and Ph.D. students with interests in my research topic. My research topic focuses on novel computer science techniques, including emerging non-volatile memories, memory and storage systems, embedded systems, AIoT, AI, in-memory computing, and mobile device programming (Android).__
