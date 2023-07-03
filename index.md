@@ -1,4 +1,4 @@
-<strong><span style="color:red">最新消息:</span></strong>
+<strong><span style="color:red">最新消息(2023.07):</span></strong>
 Hi，我是將於今年八月加入國立臺灣科技大學電子系的新老師，我們實驗室致力於研究與開發新興非揮發性記憶體與儲存技術、記憶體與儲存系統、嵌入式系統、智慧物聯網(AIoT)、人工智慧(AI)、記憶體內運算(In-Memory Computing)、行動裝置程式設計等熱門的次世代電腦科學關鍵技術，歡迎對我研究領域有興趣的同學一起加入我們實驗室！歡迎email與我聯繫，做進一步的了解與討論:wink:
 
 <strong><span style="color:red">News:</span></strong>
