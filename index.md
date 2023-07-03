@@ -62,7 +62,8 @@ _Contact: billy195375@gmail.com_
 * IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). (2021)
 
 ## Experiences
-* Postdoctoral Scholar, Institute of Information Science, Academia Sinica, Taipei, Taiwan. (July 2021 - NOW)
+* Assistant Professor, Department of Electronic and Computer Engineering, National Taiwan University of Science and Technology (August 2023 - NOW)
+* Postdoctoral Scholar, Institute of Information Science, Academia Sinica, Taipei, Taiwan. (July 2021 - July 2023)
 * Teaching Assistant of Operating Systems, Department of Computer Science and Information Engineering, National Taiwan University. (Spring 2019)
 * Teaching Assistant of Operating Systems, Department of Computer Science and Information Engineering, National Taiwan University. (Spring 2018)
 * Teaching Assistant of Autotronics System Design Project, Department of Computer Science and Information Engineering, National Chung Cheng University. (Fall 2013)
