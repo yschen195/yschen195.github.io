@@ -1,5 +1,5 @@
 <strong><span style="color:red">最新消息(2023.07):</span></strong>
-Hi，我是將於今年八月加入國立臺灣科技大學電子系的新老師，我們實驗室致力於研究與開發新興非揮發性記憶體與儲存技術、記憶體與儲存系統、嵌入式系統、智慧物聯網(AIoT)、人工智慧(AI)、記憶體內運算(In-Memory Computing)、行動裝置程式設計等熱門的次世代電腦科學關鍵技術，歡迎對我研究領域有興趣的同學一起加入我們實驗室！歡迎email與我聯繫，做進一步的了解與討論 :wink:
+Hi，我是將於今年八月加入國立臺灣科技大學電子系的新老師，我們實驗室致力於研究與開發新興非揮發性記憶體與儲存技術、記憶體與儲存系統、嵌入式系統、智慧物聯網(AIoT)、人工智慧(AI)、記憶體內運算(In-Memory Computing)、行動裝置程式設計等熱門的次世代電腦科學關鍵技術，歡迎對我研究領域有興趣的同學一起加入我們實驗室！歡迎email與我聯繫，做進一步的了解與討論 :)
 
 <strong><span style="color:red">News:</span></strong>
 __<u>Yi-Shen Chen</u>__ is now a postdoctoral scholar at the Institute of Information Science, Academia Sinica, Taipei, Taiwan. He received his Ph.D. in the Department of Computer Science and Information	Engineering from National Taiwan University in 2021, and received his M.S. degree in the Department of Computer Science and Information Engineering from National Chung Cheng University in 2016. His primary research interests include emerging non-volatile memories, memory/storage systems, and embedded systems.
