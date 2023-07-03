@@ -6,7 +6,7 @@ Hi，我是將於今年八月加入國立臺灣科技大學電子系的新老師
 Hi, I will join the Department of Electronic and Computer Engineering at National Taiwan University of Science and Technology as an assistant professor in August 2023. __<u>I am looking for motivated B.S., M.S., and Ph.D. students with interests in my research topic. My research topic focuses on novel computer science techniques, including emerging non-volatile memories, memory and storage systems, embedded systems, AIoT, AI, in-memory computing, and mobile device programming (Android).</u>__
 <br>Please feel free to email me (billy195375@gmail.com) with your CV if you are interested in my research. :)
 
---------------------------------------------------------------------
+--------------------------------------------------------------------------
 
 __<u>Yi-Shen Chen</u>__ is now an assistant professor at the Department of Electronic and Computer Engineering, National Taiwan University of Science and Technology, Taipei, Taiwan. He was a postdoctoral scholar at the Institute of Information Science, Academia Sinica from 2021 to 2023. He received his Ph.D. in the Department of Computer Science and Information Engineering from National Taiwan University in 2021. His primary research interests include emerging non-volatile memories, memory/storage systems, and embedded systems.
 
