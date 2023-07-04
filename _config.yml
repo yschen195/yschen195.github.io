@@ -3,7 +3,6 @@ github:
   is_project_page: false
 author: 陳奕伸 Yi-Shen Chen
 title: <center><span style="color:black">陳奕伸<br>Yi-Shen Chen<br><font size="4">Assistant Professor<br>National Taiwan University of Science and Technology
-subtitle: subtitle
 tagline: Assistant Professor @ Department of Electronic and Computer Engineering, National Taiwan University of Science and Technology
 logo: "avatar.jpg"
 description: Life is the art of drawing sufficient conclusions from insufficient premises.
@@ -11,6 +10,3 @@ email: "yschen195@iis.sinica.edu.tw"
 url: "https://yschen195.github.io"
 copyright: "2023"
 show_downloads: false
-background-image: url("./background.png");
-ShowContactInfo: "False"
-favicon: "favicon.ico"
