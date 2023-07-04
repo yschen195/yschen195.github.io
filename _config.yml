@@ -11,6 +11,6 @@ email: "yschen195@iis.sinica.edu.tw"
 url: "https://yschen195.github.io"
 copyright: "2023"
 show_downloads: false
-background: "background.png"
+background-image: url("https://yschen195.github.io/background.png");
 ShowContactInfo: "False"
 favicon: "favicon.ico"
