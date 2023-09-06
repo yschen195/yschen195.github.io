@@ -8,7 +8,7 @@ Hi, I am an assistant professor of the Department of Electronic and Computer Eng
 
 --------------------------------------------------------------------------
 
-__<u>Yi-Shen Chen</u>__ is now an assistant professor at the Department of Electronic and Computer Engineering, National Taiwan University of Science and Technology, Taipei, Taiwan. He was a postdoctoral scholar at the Institute of Information Science, Academia Sinica from 2021 to 2023. He received his Ph.D. in the Department of Computer Science and Information Engineering from National Taiwan University in 2021. His primary research interests include emerging non-volatile memories, memory/storage systems, and embedded systems.
+__<u>Yi-Shen Chen</u>__ is now an assistant professor of the Department of Electronic and Computer Engineering, National Taiwan University of Science and Technology, Taipei, Taiwan. He was a postdoctoral scholar at the Institute of Information Science, Academia Sinica from 2021 to 2023. He received his Ph.D. in the Department of Computer Science and Information Engineering from National Taiwan University in 2021. His primary research interests include emerging non-volatile memories, memory/storage systems, and embedded systems.
 
 _Contact: yishen@mail.ntust.edu.tw_
   
