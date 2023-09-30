@@ -58,10 +58,17 @@ Workshop Co-chair, International Computer Symposium (ICS), Taichung, Taiwan, 201
 ## Conference Paper Review
 * ACM/IEEE Design Automation Conference (DAC). (2022)
 * ACM International Conference on Education and Service Sciences. (2022)
+* ACM/IEEE International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS). (2022)
+* Workshop on Challenges and Opportunities of Efficient and Performant Storage Systems (CHEOPS 2022).
 * ACM/IEEE International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS). (2021)
 * IEEE Nonvolatile Memory Systems and Applications Symposium (NVMSA). (2021)
 * IEEE Computer Society Annual Symposium on VLSI (ISVLSI). (2021)
 * IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). (2021)
+* International Workshop on Memory and Storage Computing, Co-located Workshop with ESWEEK (2021)
+* ACM International Conference on Research in Adaptive and Convergent Systems (RACS). (2019)
+* International Workshop on Next-Generation Operating Systems for Cyber-Physical Systems (NGOSCPS). (2019)
+* ACM/IEEE International Conference on Embedded Software (EMSOFT). (2017)
+* ESWEEK Workshop on Declarative Embedded and Cyber-Physical Systems (DECPS). (2017)
 
 # Awards
 * __Deng Li Deng and Dengliu Zhi Mei Scholarship__, 2020
