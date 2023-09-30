@@ -23,7 +23,7 @@ _Contact: yishen@mail.ntust.edu.tw_
 * __<u>Yi-Shen Chen</u>__, Chun-Feng Wu, Yuan-Hao Chang, and Tei-Wei Kuo, "Energy Efficiency Enhancement of SCM-based Systems: A Write-friendly Coding," accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD).
 * Dharamjeet, __<u>Yi-Shen Chen</u>__, Tseng-Yi Chen, Yuan-Hung Kuan, and Yuan-Hao Chang, "LLSM: A Lifetime-Aware Wear-Leveling for LSM-Tree on NAND Flash Memory," accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). (Integrated with ACM/IEEE CASES'22)
 
-### Conference Papers
+## Conference Papers
 * __<u>Yi-Shen Chen</u>__, Ying-Jui Shih, and Jen-Wei Hsieh, "Mitigating Write Amplification of Dual-mode Flash Memory," International SoC Design Conference (ISOCC), Jeju Island, Korea, Oct. 25-28, 2023.
 * Shih-Chun Chou, __<u>Yi-Shen Chen</u>__, Ping-Xiang Chen, Yuan-Hao Chang, Ming-Chang Yang, Tei-Wei Kuo, Yu-Fang Chen, and Yu-Ming Chang, "FSD: File-related Secure Deletion to Prolong the Lifetime of Solid-State Drives," IEEE Nonvolatile Memory Systems and Applications Symposium (NVMSA), Niigata, Japan, Aug. 30 - Sep. 1, 2023.
 * Tsung-Yen Hsu, __<u>Yi-Shen Chen</u>__, Yun-Chih Chen, Yuan-Hao Chang, and Tei-Wei Kuo, "REFROM: Responsive, Energy-efficient Frame Rendering for Mobile Devices," ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Vienna, Austria, Aug. 7-8, 2023. __(Best Paper Nomination - Top Conference)__
@@ -33,7 +33,37 @@ _Contact: yishen@mail.ntust.edu.tw_
 * __<u>Yi-Shen Chen</u>__, Sheng-Wei Cheng, and Tei-Wei Kuo, “Performance Tuning Case Study on Graphics Processing Unit-accelerated Monte Carlo Simulations for Proton Therapy,” ACM Research in Adaptive and Convergent Systems (RACS), Chongqing, China, Sep. 24-27, 2019.
 * __<u>Yi-Shen Chen</u>__, and Peng-Sheng Chen, “A Software-based Redundant Execution Programming Model for Transient Fault Detection and Correction,” IEEE International Conference on Parallel Processing Workshops (ICPPW), Philadelphia, PA, USA, Aug. 16-19, 2016.
 
-## Awards
+# Academic Activities
+
+<!--
+## Conference Services
+Special Session Co-Chair, IEEE Computer Society Annual Symposium on VLSI (ISVLSI), Hong Kong, China, 2018.
+Workshop Co-chair, International Computer Symposium (ICS), Taichung, Taiwan, 2014.
+-->
+
+## Program Committee
+* International Workshop on Smart Applications on Embedded Systems (SAES), 2023.
+<!--
+* USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage), 2021.
+* IEEE International Conference on Computational Science and Engineering (CSE), 2011.
+-->
+
+## Journal Paper Review
+* IEEE Transactions on Computers. (2023)
+* IEEE Transactions on Emerging Topics in Computing. (2022)
+* IEEE Computer Architecture Letters (CAL). (2022)
+* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD). (2021)
+* Journal of Systems Architecture (JSA). (2021)
+
+## Conference Paper Review
+* ACM/IEEE Design Automation Conference (DAC). (2022)
+* ACM International Conference on Education and Service Sciences. (2022)
+* ACM/IEEE International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS). (2021)
+* IEEE Nonvolatile Memory Systems and Applications Symposium (NVMSA). (2021)
+* IEEE Computer Society Annual Symposium on VLSI (ISVLSI). (2021)
+* IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). (2021)
+
+# Awards
 * __Deng Li Deng and Dengliu Zhi Mei Scholarship__, 2020
 * __Delta Electronics Industry Scholarship__, 2019
 * __Deng Li Deng and Dengliu Zhi Mei Scholarship__, 2019
@@ -41,7 +71,7 @@ _Contact: yishen@mail.ntust.edu.tw_
 * __National Taiwan University Encouragement Scholarship__, 2016
 * __Study Abroad Program__ for studying at the Department of Electrical and Systems Engineering, University of Miyazaki, Miyazaki, Japen, 2014.
 
-## Talks
+# Talks
 * __LLSM: A Lifetime-Aware Wear-Leveling for LSM-Tree on NAND Flash Memory.__ In ACM/IEEE International Conference on Compilers, Architecture, and Synthesis for Embedded Systems (CASES), Shanghai, China, Oct., 2022.
 * __Drift-tolerant Coding to Enhance the Energy Efficiency of Multi-Level-Cell Phase-Change Memory.__ In ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Boston, MA, USA, Aug., 2022.
 * __A Write-friendly Arithmetic Coding Scheme for Achieving Energy-Efficient Non-Volatile Memory Systems.__ In 26th Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, Jan., 2021.
@@ -50,30 +80,14 @@ _Contact: yishen@mail.ntust.edu.tw_
 * __Thread-level Value Speculation for Image-processing Applications.__ In 2015 International Workshop on Embedded Multicore Systems (ICPP-EMS), Sep., 2015, Beijing, China.
 * __A Project-Based Course in Autotronics System Design.__ In 2015 International Conference on Consumer Electronics (ICCE), IEEE, Jun., 2015, Taipei, Taiwan.
 
-## Academic Activities
-### Journal Paper Review
-* IEEE Transactions on Computers. (2023)
-* IEEE Transactions on Emerging Topics in Computing. (2022)
-* IEEE Computer Architecture Letters (CAL). (2022)
-* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD). (2021)
-* Journal of Systems Architecture (JSA). (2021)
-
-### Conference Paper Review
-* ACM/IEEE Design Automation Conference (DAC). (2022)
-* ACM International Conference on Education and Service Sciences. (2022)
-* ACM/IEEE International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS). (2021)
-* IEEE Nonvolatile Memory Systems and Applications Symposium (NVMSA). (2021)
-* IEEE Computer Society Annual Symposium on VLSI (ISVLSI). (2021)
-* IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS). (2021)
-
-## Experiences
+# Experiences
 * Assistant Professor, Department of Electronic and Computer Engineering, National Taiwan University of Science and Technology (August 2023 - NOW)
 * Postdoctoral Scholar, Institute of Information Science, Academia Sinica, Taipei, Taiwan. (July 2021 - July 2023)
 * Teaching Assistant of Operating Systems, Department of Computer Science and Information Engineering, National Taiwan University. (Spring 2019)
 * Teaching Assistant of Operating Systems, Department of Computer Science and Information Engineering, National Taiwan University. (Spring 2018)
 * Teaching Assistant of Autotronics System Design Project, Department of Computer Science and Information Engineering, National Chung Cheng University. (Fall 2013)
 
-## Projects
+# Projects
 * Adaptive Lighting Control System on Arduino Platform (2015)
 * Pedestrian Detection System on Android Device (2015)
 * Gesture Registration System using Microsoft Kinect Sensor (2014)
