@@ -43,10 +43,6 @@ Workshop Co-chair, International Computer Symposium (ICS), Taichung, Taiwan, 201
 
 ## Program Committee
 * International Workshop on Smart Applications on Embedded Systems (SAES), 2023.
-<!--
-* USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage), 2021.
-* IEEE International Conference on Computational Science and Engineering (CSE), 2011.
--->
 
 ## Journal Paper Review
 * IEEE Transactions on Computers. (2023)
