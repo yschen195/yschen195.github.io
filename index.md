@@ -1,4 +1,4 @@
-<!-- <strong><span style="color:red">最新消息(2023.07):</span></strong> -->
+<strong><span style="color:red">最新消息(News):</span></strong>
 __Hi，我於2023年8月加入國立臺灣科技大學電子系，我們實驗室致力於研究開發新興非揮發性記憶體與儲存技術、記憶體與儲存系統、嵌入式系統、智慧物聯網(AIoT)、人工智慧(AI)、記憶體內運算(In-Memory Computing)、行動裝置程式設計等熱門的次世代電腦科學關鍵技術，歡迎對我研究領域有興趣的同學加入我們實驗室！
 <br>請email (yishen@mail.ntust.edu.tw) 與我聯繫做進一步的討論 :)__
 
