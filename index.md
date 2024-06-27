@@ -24,6 +24,7 @@ _Contact: yishen@mail.ntust.edu.tw_
 * Dharamjeet, __<u>Yi-Shen Chen</u>__, Tseng-Yi Chen, Yuan-Hung Kuan, and Yuan-Hao Chang, "LLSM: A Lifetime-Aware Wear-Leveling for LSM-Tree on NAND Flash Memory," accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). (Integrated with ACM/IEEE CASES'22)
 
 ## Conference Papers
+* Han-Yu Liao, __<u>Yi-Shen Chen</u>__, Jen-Wei Hsieh, Yuan-Hao Chang, and Hung-Pin Chen, "CellRejuvo: Rescuing the Aging of 3D NAND Flash Cells with Dense-Sparse Cell Reprogramming," ACM/IEEE International Conference on Computer-Aided Design (ICCAD), New Jersey, USA, Oct. 27-31, 2024. __(Top Conference)__
 * __<u>Yi-Shen Chen</u>__, Ying-Jui Shih, and Jen-Wei Hsieh, "Mitigating Write Amplification of Dual-mode Flash Memory," International SoC Design Conference (ISOCC), Jeju Island, Korea, Oct. 25-28, 2023.
 * Shih-Chun Chou, __<u>Yi-Shen Chen</u>__, Ping-Xiang Chen, Yuan-Hao Chang, Ming-Chang Yang, Tei-Wei Kuo, Yu-Fang Chen, and Yu-Ming Chang, "FSD: File-related Secure Deletion to Prolong the Lifetime of Solid-State Drives," IEEE Nonvolatile Memory Systems and Applications Symposium (NVMSA), Niigata, Japan, Aug. 30 - Sep. 1, 2023.
 * Tsung-Yen Hsu, __<u>Yi-Shen Chen</u>__, Yun-Chih Chen, Yuan-Hao Chang, and Tei-Wei Kuo, "REFROM: Responsive, Energy-efficient Frame Rendering for Mobile Devices," ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Vienna, Austria, Aug. 7-8, 2023. __(Best Paper Nomination - Top Conference)__
