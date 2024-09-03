@@ -44,6 +44,7 @@ Workshop Co-chair, International Computer Symposium (ICS), Taichung, Taiwan, 201
 -->
 
 ## Program Committee
+* The 29th Workshop on Compiler Techniques and System Software for High-Performance and Embedded Computing (CTHPC), 2024.
 * International Workshop on Smart Applications on Embedded Systems (SAES), 2023.
 
 ## Journal Paper Review
