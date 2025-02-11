@@ -48,13 +48,21 @@ Workshop Co-chair, International Computer Symposium (ICS), Taichung, Taiwan, 201
 * International Workshop on Smart Applications on Embedded Systems (SAES), 2023.
 
 ## Journal Paper Review
-* IEEE Transactions on Computers. (2023)
+* ACM Transactions on Embedded Computing Systems (TECS). (2024)
+* Journal of Information Science and Engineering. (2024)
+* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD). (2023)
+* ACM Transactions on Storage (TOS). (2023)
+* IEEE Transactions on Computers (TC). (2023)
 * IEEE Transactions on Emerging Topics in Computing. (2022)
 * IEEE Computer Architecture Letters (CAL). (2022)
-* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD). (2021)
+* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). (2021)
 * Journal of Systems Architecture (JSA). (2021)
 
 ## Conference Paper Review
+* IEEE International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS). (2023)
+* IEEE/ACM International Conference on Computer Aided Design (ICCAD). (2023)
+* International SoC Conference (ISOCC). (2023)
+* IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA). (2023)
 * ACM/IEEE Design Automation Conference (DAC). (2022)
 * ACM International Conference on Education and Service Sciences. (2022)
 * ACM/IEEE International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS). (2022)
@@ -91,7 +99,6 @@ Workshop Co-chair, International Computer Symposium (ICS), Taichung, Taiwan, 201
 * Postdoctoral Scholar, Institute of Information Science, Academia Sinica, Taipei, Taiwan. (July 2021 - July 2023)
 * Teaching Assistant of Operating Systems, Department of Computer Science and Information Engineering, National Taiwan University. (Spring 2019)
 * Teaching Assistant of Operating Systems, Department of Computer Science and Information Engineering, National Taiwan University. (Spring 2018)
-* Teaching Assistant of Autotronics System Design Project, Department of Computer Science and Information Engineering, National Chung Cheng University. (Fall 2013)
 
 # Projects
 * Adaptive Lighting Control System on Arduino Platform (2015)
