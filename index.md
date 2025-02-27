@@ -44,6 +44,7 @@ Workshop Co-chair, International Computer Symposium (ICS), Taichung, Taiwan, 201
 -->
 
 ## Program Committee
+* IEEE International Conference on Consumer Electronics – Taiwan (ICCE-TW), 2025.
 * The 29th Workshop on Compiler Techniques and System Software for High-Performance and Embedded Computing (CTHPC), 2024.
 * International Workshop on Smart Applications on Embedded Systems (SAES), 2023.
 
