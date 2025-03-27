@@ -1,10 +1,10 @@
 <strong><span style="color:red">最新消息(News):</span></strong>
-__Hi，我們實驗室致力於研究開發新興非揮發性記憶體與儲存技術、記憶體與儲存系統、嵌入式系統、智慧物聯網(AIoT)、人工智慧(AI)、記憶體內運算(In-Memory Computing)等熱門的次世代電腦科學關鍵技術，歡迎對我研究領域有興趣的同學加入我們實驗室！
+__Hi，我們實驗室致力於研究開發新興非揮發性記憶體與儲存技術、記憶體與儲存系統、嵌入式系統、人工智慧(AI)、記憶體內運算(In-Memory Computing)、智慧物聯網(AIoT)等熱門的次世代電腦科學關鍵技術，歡迎對我研究領域有興趣的同學加入我們實驗室！
 <br>請email (yishen@mail.ntust.edu.tw) 與我聯繫做進一步的討論 :)__
 
 <!--
 <strong><span style="color:red">News(2023.07):</span></strong>
-Hi, I join the Department of Electronic and Computer Engineering of National Taiwan University of Science and Technology as an assistant professor in August 2023. __I am looking for motivated B.S., M.S., and Ph.D. students with interests in my research topic. My research topic focuses on novel computer science techniques, including emerging non-volatile memories, memory and storage systems, embedded systems, AIoT, AI, in-memory computing, and mobile device programming.
+Hi, I join the Department of Electronic and Computer Engineering of National Taiwan University of Science and Technology as an assistant professor in August 2023. __I am looking for motivated B.S., M.S., and Ph.D. students with interests in my research topic. My research topic focuses on novel computer science techniques, including emerging non-volatile memories, memory and storage systems, embedded systems, AI, in-memory computing, and AIoT.
 <br>Please feel free to email me (yishen@mail.ntust.edu.tw) with your CV if you are interested in my research. :)__
 -->
 
