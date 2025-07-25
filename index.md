@@ -24,6 +24,7 @@ _Contact: yishen@mail.ntust.edu.tw_
 * Dharamjeet, __<u>Yi-Shen Chen</u>__, Tseng-Yi Chen, Yuan-Hung Kuan, and Yuan-Hao Chang, "LLSM: A Lifetime-Aware Wear-Leveling for LSM-Tree on NAND Flash Memory," accepted and to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). (Integrated with ACM/IEEE CASES'22)
 
 ## Conference Papers
+* You-Yuan Zhuang, __<u>Yi-Shen Chen</u>__, Jen-Wei Hsieh, and Yuan-Hao Chang, "SplitLSM: Unlocking Write Efficiency with Zone-Aware Compaction for LSM-Trees on Zoned Namespace SSDs," IEEE Nonvolatile Memory Systems and Applications Symposium (NVMSA), Singapore, Aug. 20-22, 2025.
 * Huai-De Peng, __<u>Yi-Shen Chen</u>__, Tseng-Yi Chen, and Yuan-Hao Chang, "PULSE: Progressive Utilization of Log-Structured Techniques to Ease SSD Write Amplification in B-epsilon-tree," ACM/IEEE Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, Jan. 20-23, 2025.
 * Han-Yu Liao, __<u>Yi-Shen Chen</u>__, Jen-Wei Hsieh, Yuan-Hao Chang, and Hung-Pin Chen, "CellRejuvo: Rescuing the Aging of 3D NAND Flash Cells with Dense-Sparse Cell Reprogramming," ACM/IEEE International Conference on Computer-Aided Design (ICCAD), New Jersey, USA, Oct. 27-31, 2024. __(Top Conference)__
 * __<u>Yi-Shen Chen</u>__, Ying-Jui Shih, and Jen-Wei Hsieh, "Mitigating Write Amplification of Dual-mode Flash Memory," International SoC Design Conference (ISOCC), Jeju Island, Korea, Oct. 25-28, 2023.
