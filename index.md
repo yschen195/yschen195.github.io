@@ -25,6 +25,7 @@ _Contact: yishen@mail.ntust.edu.tw_
 
 ## Conference Papers
 * You-Yuan Zhuang, __<u>Yi-Shen Chen</u>__, Jen-Wei Hsieh, and Yuan-Hao Chang, "SplitLSM: Unlocking Write Efficiency with Zone-Aware Compaction for LSM-Trees on Zoned Namespace SSDs," IEEE Nonvolatile Memory Systems and Applications Symposium (NVMSA), Singapore, Aug. 20-22, 2025.
+* Han-Yu Liao, Jen-Wei Hsieh, __<u>Yi-Shen Chen</u>__, Chang-Lin Tsai, Yuan-Hao Chang, "AdaGray: An Energy-Efficient Adaptive Gray-Code Strategy for QLC Flash-Memory Storage Systems," ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), Reykjavík, Iceland, Aug. 6-8, 2025. __(Top Conference)__
 * Huai-De Peng, __<u>Yi-Shen Chen</u>__, Tseng-Yi Chen, and Yuan-Hao Chang, "PULSE: Progressive Utilization of Log-Structured Techniques to Ease SSD Write Amplification in B-epsilon-tree," ACM/IEEE Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, Jan. 20-23, 2025.
 * Han-Yu Liao, __<u>Yi-Shen Chen</u>__, Jen-Wei Hsieh, Yuan-Hao Chang, and Hung-Pin Chen, "CellRejuvo: Rescuing the Aging of 3D NAND Flash Cells with Dense-Sparse Cell Reprogramming," ACM/IEEE International Conference on Computer-Aided Design (ICCAD), New Jersey, USA, Oct. 27-31, 2024. __(Top Conference)__
 * __<u>Yi-Shen Chen</u>__, Ying-Jui Shih, and Jen-Wei Hsieh, "Mitigating Write Amplification of Dual-mode Flash Memory," International SoC Design Conference (ISOCC), Jeju Island, Korea, Oct. 25-28, 2023.
