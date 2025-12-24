@@ -49,6 +49,8 @@ _Contact: yishen@mail.ntust.edu.tw_
 Special Session Chair, IEEE International Conference on Consumer Electronics – Taiwan (ICCE-TW), Taipei, Taiwan, 2025.
 
 ## Journal Paper Review
+* ACM Computing Surveys. (2025)
+* ACM Transactions on Embedded Computing Systems (TECS). (2025)
 * ACM Transactions on Embedded Computing Systems (TECS). (2024)
 * Journal of Information Science and Engineering. (2024)
 * IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD). (2023)
@@ -60,6 +62,7 @@ Special Session Chair, IEEE International Conference on Consumer Electronics –
 * Journal of Systems Architecture (JSA). (2021)
 
 ## Conference Paper Review
+* IEEE International Conference on Consumer Electronics – Taiwan (ICCE-TW). (2025)
 * IEEE International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS). (2023)
 * IEEE/ACM International Conference on Computer Aided Design (ICCAD). (2023)
 * International SoC Conference (ISOCC). (2023)
