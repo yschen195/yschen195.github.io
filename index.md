@@ -40,6 +40,8 @@ _Contact: yishen@mail.ntust.edu.tw_
 # Academic Activities
 
 ## Program Committee
+* The 44th IEEE International Conference on Computer Design (ICCD 2026).
+* The 31th Workshop on Compiler Techniques and System Software for High-Performance and Embedded Computing (CTHPC), 2026.
 * IEEE International Conference on Consumer Electronics – Taiwan (ICCE-TW), 2025.
 * The 30th Workshop on Compiler Techniques and System Software for High-Performance and Embedded Computing (CTHPC), 2025.
 * The 29th Workshop on Compiler Techniques and System Software for High-Performance and Embedded Computing (CTHPC), 2024.
@@ -49,6 +51,8 @@ _Contact: yishen@mail.ntust.edu.tw_
 Special Session Chair, IEEE International Conference on Consumer Electronics – Taiwan (ICCE-TW), Taipei, Taiwan, 2025.
 
 ## Journal Paper Review
+* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD). (2026)
+* ACM Transactions on Embedded Computing Systems (TECS). (2026)
 * ACM Computing Surveys. (2025)
 * ACM Transactions on Embedded Computing Systems (TECS). (2025)
 * ACM Transactions on Embedded Computing Systems (TECS). (2024)
@@ -62,6 +66,7 @@ Special Session Chair, IEEE International Conference on Consumer Electronics –
 * Journal of Systems Architecture (JSA). (2021)
 
 ## Conference Paper Review
+* The 44th IEEE International Conference on Computer Design (ICCD 2026).
 * IEEE International Conference on Consumer Electronics – Taiwan (ICCE-TW). (2025)
 * IEEE International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS). (2023)
 * IEEE/ACM International Conference on Computer Aided Design (ICCAD). (2023)
