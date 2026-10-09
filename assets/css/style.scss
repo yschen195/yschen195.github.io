@@ -1,0 +1,15 @@
+
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide View My GitHub Profile */
+header p.view {
+  display: none !important;
+}
+
+/* Hide Hosted on GitHub Pages footer */
+footer {
+  display: none !important;
+}
